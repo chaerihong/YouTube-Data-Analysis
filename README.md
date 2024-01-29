@@ -47,5 +47,5 @@ An unexpected finding was the prominence of certain keywords in the climate chan
 
 To download the result spreadsheets (CSV files), click the links below:
 
-- [Download Standing Rock Data](assets/Standing_Rock.csv)
-- [Download Climate Change Data](assets/Climate_change.csv)
+- [Download Standing Rock Data](asset/Standing_Rock.csv)
+- [Download Climate Change Data](asset/Climate_change.csv)
